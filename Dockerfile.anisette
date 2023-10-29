@@ -1,1 +1,1 @@
-FROM dadoum/anisette-server:latest
+FROM dadoum/anisette-v3-server:latest
