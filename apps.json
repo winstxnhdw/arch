@@ -7,9 +7,7 @@
   "headerURL": "https://avatars.githubusercontent.com/u/56998716",
   "website": "https://github.com/winstxnhdw",
   "tintColor": "#C7FAF1",
-  "featuredApps": [
-    "com.twyt.manhuawu"
-  ],
+  "featuredApps": ["com.twyt.manhuawu"],
   "apps": [
     {
       "name": "Manga Bird",
@@ -24,9 +22,9 @@
           "version": "1.0",
           "date": "2023-10-30",
           "downloadURL": "http://mangabirdapp.com/apks/mangareader_1.305.ipa",
-          "localizedDescription": "The legendary manga reader app for iOS.",
+          "localizedDescription": "The legendary manga reader app for iOS."
         }
       ]
     }
-  ],
+  ]
 }
