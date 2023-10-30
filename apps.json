@@ -17,7 +17,7 @@
       "localizedDescription": "The legendary manga reader app for iOS.",
       "iconURL": "https://raw.githubusercontent.com/winstxnhdw/hosted-snippets/main/resources/manga-bird-icon.png",
       "tintColor": "#C7FAF1",
-      "size": 279800000,
+      "size": 59300000,
       "version": "1.0",
       "versionDate": "2023-10-30",
       "downloadURL": "http://mangabirdapp.com/apks/mangareader_1.305.ipa",
@@ -27,7 +27,7 @@
           "date": "2023-10-30",
           "downloadURL": "http://mangabirdapp.com/apks/mangareader_1.305.ipa",
           "localizedDescription": "The legendary manga reader app for iOS.",
-          "size": 279800000
+          "size": 59300000
         }
       ]
     }
