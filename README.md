@@ -7,7 +7,7 @@ A website to host long snippets. Really useful when you need a snippet on headle
 ## Usage
 
 ```bash
-curl https://winstn.netlify.app/<snippet-file>
+curl https://hosted.winst.in/<snippet-file>
 ```
 
 ## Sideloading
@@ -15,5 +15,5 @@ curl https://winstn.netlify.app/<snippet-file>
 Add the following to your SideStore/AltStore source list.
 
 ```console
-https://winstn.netlify.app/apps.json
+hosted.winst.in/apps.json
 ```
