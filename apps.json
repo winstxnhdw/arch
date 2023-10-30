@@ -6,41 +6,27 @@
   "iconURL": "https://avatars.githubusercontent.com/u/56998716",
   "headerURL": "https://avatars.githubusercontent.com/u/56998716",
   "website": "https://github.com/winstxnhdw",
-  "tintColor": "#FF6A00",
+  "tintColor": "#C7FAF1",
   "featuredApps": [
-    "com.winstxnhdw.mangabird"
+    "com.twyt.manhuawu"
   ],
   "apps": [
     {
       "name": "Manga Bird",
-      "bundleIdentifier": "com.winstxnhdw.mangabird",
+      "bundleIdentifier": "com.twyt.manhuawu",
       "developerName": "winstxnhdw",
-      "subtitle": "Manga Bird",
-      "localizedDescription": "Manga Bird",
-      "iconURL": "http://mangabirdapp.com/images/256_round.png",
-      "tintColor": "#FF6A00",
-      "screenshotURLs": [],
-      "screenshots": [],
+      "subtitle": "Manga Bird, back to life.",
+      "localizedDescription": "The legendary manga reader app for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/winstxnhdw/hosted-snippets/main/resources/manga-bird-icon.png",
+      "tintColor": "#C7FAF1",
       "versions": [
         {
-          "version": "1.5.6",
-          "date": "2023-10-27T09:00:00-08:00",
-          "size": 55199847,
-          "downloadURL": "http://www.mangabirdapp.com/apks/mangareader_1.305.ipa",
-          "localizedDescription": "",
-          "minOSVersion": "13.0",
-          "sha256": "00966c10a3e4eb32ede77261e48e36d06bb5167f5ae5b8477d427a8fcc3bff9e"
+          "version": "1.0",
+          "date": "2023-10-30",
+          "downloadURL": "http://mangabirdapp.com/apks/mangareader_1.305.ipa",
+          "localizedDescription": "The legendary manga reader app for iOS.",
         }
-      ],
-      "version": "1.5.6",
-      "versionDate": "2023-10-27T09:00:00-08:00",
-      "versionDescription": "",
-      "downloadURL": "http://www.mangabirdapp.com/apks/mangareader_1.305.ipa",
-      "size": 55199847,
-      "permissions": [],
-      "appPermissions": {}
+      ]
     }
   ],
-  "news": [],
-  "userInfo": {}
 }
