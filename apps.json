@@ -6,7 +6,7 @@
   "iconURL": "https://avatars.githubusercontent.com/u/56998716",
   "headerURL": "https://avatars.githubusercontent.com/u/56998716",
   "website": "https://github.com/winstxnhdw",
-  "tintColor": "#C7FAF1",
+  "tintColor": "#107FCD",
   "featuredApps": ["com.twyt.manhuawu"],
   "apps": [
     {
@@ -16,7 +16,7 @@
       "subtitle": "Manga Bird, back to life.",
       "localizedDescription": "The legendary manga reader app for iOS.",
       "iconURL": "https://raw.githubusercontent.com/winstxnhdw/hosted-snippets/main/resources/manga-bird-icon.png",
-      "tintColor": "#C7FAF1",
+      "tintColor": "#107FCD",
       "size": 59300000,
       "version": "1.0",
       "versionDate": "2023-10-30",
