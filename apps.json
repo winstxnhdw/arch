@@ -1,0 +1,46 @@
+{
+  "name": "winstxnhdw's source",
+  "identifier": "com.winstxnhdw",
+  "subtitle": "winstxnhdw's source",
+  "description": "winstxnhdw's source",
+  "iconURL": "https://avatars.githubusercontent.com/u/56998716",
+  "headerURL": "https://avatars.githubusercontent.com/u/56998716",
+  "website": "https://github.com/winstxnhdw",
+  "tintColor": "#FF6A00",
+  "featuredApps": [
+    "com.winstxnhdw.mangabird"
+  ],
+  "apps": [
+    {
+      "name": "Manga Bird",
+      "bundleIdentifier": "com.winstxnhdw.mangabird",
+      "developerName": "winstxnhdw",
+      "subtitle": "Manga Bird",
+      "localizedDescription": "Manga Bird",
+      "iconURL": "http://mangabirdapp.com/images/256_round.png",
+      "tintColor": "#FF6A00",
+      "screenshotURLs": [],
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.5.6",
+          "date": "2023-10-27T09:00:00-08:00",
+          "size": 55199847,
+          "downloadURL": "http://www.mangabirdapp.com/apks/mangareader_1.305.ipa",
+          "localizedDescription": "",
+          "minOSVersion": "13.0",
+          "sha256": "00966c10a3e4eb32ede77261e48e36d06bb5167f5ae5b8477d427a8fcc3bff9e"
+        }
+      ],
+      "version": "1.5.6",
+      "versionDate": "2023-10-27T09:00:00-08:00",
+      "versionDescription": "",
+      "downloadURL": "http://www.mangabirdapp.com/apks/mangareader_1.305.ipa",
+      "size": 55199847,
+      "permissions": [],
+      "appPermissions": {}
+    }
+  ],
+  "news": [],
+  "userInfo": {}
+}
