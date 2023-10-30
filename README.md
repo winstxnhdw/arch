@@ -4,6 +4,16 @@
 
 A website to host long snippets. Really useful when you need a snippet on headless systems with internet access.
 
+## Usage
+
 ```bash
 curl https://winstn.netlify.app/<snippet-file>
+```
+
+## Sideloading
+
+Add the following to your SideStore/AltStore source list.
+
+```console
+https://raw.githubusercontent.com/winstxnhdw/hosted-snippets/main/apps.json
 ```
