@@ -15,5 +15,5 @@ curl https://winstn.netlify.app/<snippet-file>
 Add the following to your SideStore/AltStore source list.
 
 ```console
-https://raw.githubusercontent.com/winstxnhdw/hosted-snippets/main/apps.json
+https://winstn.netlify.app/apps.json
 ```
